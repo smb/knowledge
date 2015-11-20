@@ -3,3 +3,7 @@ pages_list:
         About: 'knowledge/about'
         Archive: 'knowledge/archive'
         Feed: 'knowledge/atom.xml'
+
+collections:
+        kb:
+          output: true

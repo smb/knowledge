@@ -1,5 +1,5 @@
 permalink: /:categories/:title
 pages_list:       
-        About: '/about'
-        Archive: '/archive'
-        Feed: '/atom.xml'
+        About: 'knowledge/about'
+        Archive: 'knowledge/archive'
+        Feed: 'knowledge/atom.xml'

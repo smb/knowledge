@@ -1,10 +1,11 @@
 ---
 layout: default
-title: markdown test
+title: main page
 ---
 
-### Test!
+### Uebersicht
 
+## Pages:
 <ul>
   {% for post in site.posts %}
     <li>
